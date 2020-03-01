@@ -19,6 +19,10 @@ links:
       avatar: https://public-1256189093.cos.ap-guangzhou.myqcloud.com/static/doge_avatar.jpg
       url: http://www.throwable.club
       tags: [Chives, Java]
+     - name: www.bfdz.ink
+      avatar: https://www.bfdz.ink/favicon.ico
+      url: https://www.bfdz.ink/
+      tags: [无背景图效果, Linux]
   - group: '版本：^1.5'
     items:
     - name: Linhk1606
